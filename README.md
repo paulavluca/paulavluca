@@ -1,5 +1,5 @@
-## Paula Lucá
-¡Hola! Bienvenido/a a mi repositorio🎉
+## Hola! 👋🏼 soy Paula Lucá
+Bienvenido/a a mi repositorio🎉
  <br>Soy estudiante del primer año de la Tecnicatura en Programación en la Universidad Tecnológica Nacional <strong><i>(UTN)</i></strong> -Argentina-.
  <br>Actualmente estoy formando mis conocimientos para ser una Full Stack - Web Developer, tanto en el ámbito universitario como de manera autodidacta.
  <br><p><i>Por el momento mi repositorio se encuentra en reforma. Próximamente estaré subiendo proyectos que realicé. ✨</i></p><br>
