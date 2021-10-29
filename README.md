@@ -11,8 +11,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" width="50">&nbsp;
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="40">&nbsp;
   <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" width="40">&nbsp;
-  <img src="https://ugeek.github.io/blog/images-blog/git.png" width="50">&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2845/PNG/512/linux_logo_icon_181333.png" width="50">&nbsp;
+  <img src="https://ugeek.github.io/blog/images-blog/git.png" width="55">&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2845/PNG/512/linux_logo_icon_181333.png" width="60">&nbsp;
 </p></h2>
 
 
